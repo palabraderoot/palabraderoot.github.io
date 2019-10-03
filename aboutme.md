@@ -1,10 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: La buena, pero pasada de moda, seccion about me
+subtitle: La buena, pero pasada de moda, sección about me
 ---
 
-Mi nombre es Jesús Muñoz, también conocido como "omiK" y llevo ligado al mundo de la tecnología más años de los que me gustaría reconocer...
+Mi nombre es **Jesús Muñoz**, también conocido como "**omiK**" y llevo ligado al mundo de la tecnología más años de los que me gustaría reconocer...
+
+Soy un nerd que se dedica a la ciberseguridad, el pentesting y la producción audiovisual. En definitivam un nerd que hace cosas.
 
 Para más información siempre puedes visitar:
 
@@ -14,6 +16,6 @@ Para más información siempre puedes visitar:
 
 [omik-sec.github.io](https://omik-sec.github.io)  - Cursos y certificaciones realizadas en el campo de la Seguridad Informática.
 
-Por si no te apetece ver certificados y profiles en linkedin, te dejo un gif de un gatete:
+Pero por si no te apetece ver certificados y profiles en linkedin, aquí te dejo un gif de un gatete:
 
 ![](https://media.giphy.com/media/4iqMzLtBO9KSY/giphy.gif){: .center-block :}
