@@ -33,9 +33,9 @@ La red TOR es una red de nodos distribuidos alrededor del mundo, mantenida por v
 
 Para una información más detallada sobre TOR:
 
-https://torproject.org
+[https://torproject.org](https://torproject.org)
 
-https://tor.derechosdigitales.org/torificate/
+[https://tor.derechosdigitales.org/torificate/](https://tor.derechosdigitales.org/torificate/)
 
 Además la red TOR permite acceder a una parte de la **dark web**, dando acceso a los dominios .onion
 
