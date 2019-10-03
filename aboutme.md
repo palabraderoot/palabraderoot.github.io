@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: La buena, pero pasada de moda, seccion about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mi nombre es Jesús Muñoz, también conocido como "omiK" y llevo ligado al mundo de la tecnología más años de los que me gustaría reconocer...
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Para más información siempre puedes visitar:
 
-What else do you need?
+[omik.github.io](https://omik.github.io) - Mi landing page, con enlaces a linkedin, twitter, etc.
 
-### my history
+[omik-fcc.github.io](https://omik-fcc.github.io) - Certificados del FreeCodeCamp Full Developer Path.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[omik-sec.github.io](https://omik-sec.github.io)  - Cursos y certificaciones realizadas en el campo de la Seguridad Informática.
+
+Por si no te apetece ver certificados y profiles en linkedin, te dejo un gif de un gatete:
+
+![](https://media.giphy.com/media/4iqMzLtBO9KSY/giphy.gif){: .center-block :}
