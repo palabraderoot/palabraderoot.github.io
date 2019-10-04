@@ -4,9 +4,9 @@ title: About me
 subtitle: La buena, pero pasada de moda, sección about me
 ---
 
-Mi nombre es **Jesús Muñoz**, también conocido como "**omiK**" y llevo ligado al mundo de la tecnología más años de los que me gustaría reconocer...
+*Palabra de Root* es un blog sobre tecnología, sofware libre, seguridad informática y gatos llevado, por ahora en solitario, por mi, **Jesús Muñoz**, también conocido como "**omiK**".
 
-Soy un nerd que se dedica a la ciberseguridad, el pentesting y la producción audiovisual. En definitivam un nerd que hace cosas.
+Soy un nerd que lleva ligado al mundo de la tecnología, más años de los que me gustaría reconocer, que se dedica a la ciberseguridad, el pentesting y la producción audiovisual. En definitiva, un nerd que hace cosas.
 
 Para más información siempre puedes visitar:
 
