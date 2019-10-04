@@ -9,7 +9,7 @@ Quizá tengas por ahí una vieja raspberry en un cajón esperando a que decidas 
 
 Quizá como a mí **solo te mueva la curiosidad**, el *enredar* con gadgets y tecnología.
 
-![img](https://i.imgur.com/OBuQaJq.png)
+![img](https://i.imgur.com/OBuQaJq.png){: .center-block :}
 
 Sea cual sea tu motivación, ¡vivan los **Proyectos de Fin de Semana**!
 
@@ -21,7 +21,7 @@ En mi caso voy a utilizar una entrada en años **Raspberry Pi Model B Rev 2**. M
 
 El objetivo es que al final de la serie de artículos hayamos podido configurar y asegurar (*con un éxito aceptable, todo es susceptible de mejora*) un **servidor web** como **servicio oculto** dentro de la red **TOR**.
 
-![img](https://i.imgur.com/G32OSvt.jpg)
+![img](https://i.imgur.com/G32OSvt.jpg){: .center-block :}
 
 > Creemos que todos deberían poder explorar Internet con privacidad. Somos el Tor Project, una ONG 501(c)3 US. Promovemos los derechos humanos y defendemos tu privacidad en linea a través del software libre y las redes abiertas.
 >
