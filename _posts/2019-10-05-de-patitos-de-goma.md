@@ -37,7 +37,7 @@ Unos pocos datos sobre la placa de desarrollo Digispark ATTiny85
 
 > Digispark es una placa de desarrollo de microcontroladores basada en Attiny85 (Amtel) similar a la línea Arduino, solo que más barata, más pequeña y un poco menos potente. 
 >
->- Aquí están las especificaciones:
+> Aquí están las especificaciones:
 >- Soporte para Arduino IDE 1.0+ (OSX / Win / Linux)
 >- Alimentación a través de USB o fuente externa: 5v o 7-35v (se recomienda 12v o menos, selección automática)
 >- Regulador de 500ma 5V
