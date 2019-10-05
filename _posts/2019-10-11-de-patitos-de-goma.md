@@ -77,7 +77,7 @@ En linux, aquí tienes un tutorial paso a paso:
 
 A ver, esto es arduino, si no subimos el viejo confiable sketch que hace parpadear el led de la placa para probar si funciona, esto *no es arduino ni es ná*.
 
-```
+```arduino
 // the setup routine runs once when you press reset:
 void setup() {                
   // initialize the digital pin as an output.
@@ -100,7 +100,7 @@ void loop() {
 
 Vamos a hacer un pequeño sketch que en un sistema windows abra un navegador (iexplore), acceda a este blog y lo ponga a pantalla completa.
 
-```
+```arduino
 /*
  * Pequeño script para demostrar el uso de un Rubber Ducky en sistemas Windows
  * 
