@@ -121,6 +121,7 @@ server {
         listen 127.0.0.1:80;
 ```
 
+
 #### Evitando leaks de directorio
 
 Cuando se puede ver públicamente la estructura de directorio y archivos de un servidor estamos revelando demasiada información interna de cómo funciona nuestro servicio. Lo que nos puede llevar a otra vulnerabilidad de filtrado de información ([Information Disclosure Issues](https://www.netsparker.com/blog/web-security/information-disclosure-issues-attacks/)).
@@ -151,6 +152,7 @@ Ya es el momento de volver a reiniciar NGINX para aplicar los últimos cambios.
 ```bash
 sudo service nginx restart
 ```
+
 
 #### Generando nuestra portada
 
