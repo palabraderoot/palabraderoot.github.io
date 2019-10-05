@@ -92,7 +92,7 @@ Ya no aparece la versión, y eso es bueno.
 
 Por defecto NGINX va a tener las orejas bien abiertas, va a responder en el puerto 80 a cualquiera y lo que es más importante, por cualquier sitio. Vamos a encargarnos de hacer un poco más restrictivo nuestro servidor.
 
-En Tor, cuando alguien hace una petición web a nuestra dirección .onion, tras todos los saltos entre nodos, sus enrutamientos y cifrados cebolleros varios, a nuestro servidor va a aparecerle la petición como una conexión desde 127.0.0.1, y ahí es donde vamos a escuchar. * 
+En Tor, cuando alguien hace una petición web a nuestra dirección .onion, tras todos los saltos entre nodos, sus enrutamientos y cifrados cebolleros varios, a nuestro servidor va a aparecerle la petición como una conexión desde 127.0.0.1, y ahí es donde vamos a escuchar.
 
 Para hacer cambios es recomendable primero hacer una copia de seguridad del fichero de configuración **default**.
 
@@ -120,6 +120,7 @@ Las cambiamos por:
 server {
         listen 127.0.0.1:80;
 ```
+
 
 
 #### Evitando leaks de directorio
@@ -152,6 +153,7 @@ Ya es el momento de volver a reiniciar NGINX para aplicar los últimos cambios.
 ```bash
 sudo service nginx restart
 ```
+
 
 
 #### Generando nuestra portada
