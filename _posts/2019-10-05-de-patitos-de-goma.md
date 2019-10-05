@@ -40,15 +40,25 @@ Unos pocos datos sobre la placa de desarrollo Digispark ATTiny85
 > Aquí están las especificaciones:
 >
 > Soporte para Arduino IDE 1.0+ (OSX / Win / Linux)
+>
 > Alimentación a través de USB o fuente externa: 5v o 7-35v (se recomienda 12v o menos, selección automática)
+>
 > Regulador de 500ma 5V
+>
 > USB incorporado
+>
 > 6 pines de E / S (2 se usan para USB solo si su programa se comunica activamente a través de USB; de lo contrario, puede usar los 6 incluso si está programando a través de USB)
+>
 > Memoria Flash de 8k (aproximadamente 6k después del gestor de arranque)
+>
 > I2C y SPI (vis USI)
+>
 > PWM en 3 pines (más posible con Software PWM)
+>
 > ADC en 4 pines
+>
 > LED de encendido y LED de prueba / estado
+>
 
 ### Preparando el IDE
 
