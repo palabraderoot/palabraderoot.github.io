@@ -7,7 +7,7 @@ tags: [diy,raspberry,open source]
 
 NGINX es un servidor web ligero que vamos a utilizar para, no creo que se sorprenda nadie, servir páginas web en la red Tor desde la Raspberry PI. La instalación y configuración inicial es bastante sencilla, vamos a ello.
 
-![](https://i.imgur.com/wqJVXPG.png)
+![](https://i.imgur.com/wqJVXPG.png){: .center-block :}
 
 ### Instalación y configuración inicial
 
@@ -18,7 +18,7 @@ sudo apt install nginx
 
 Sencillo, ¿No?. Ya tenemos instalado un pequeño servidor web, si apuntamos hacia la ip de la raspberry con un navegador podremos ver si todo ha salido bien.
 
-![](https://i.imgur.com/KsCF5NU.png)
+![](https://i.imgur.com/KsCF5NU.png){: .center-block :}
 
 ### Afinando la configuración teniendo en mente Tor
 
@@ -156,7 +156,7 @@ sudo service nginx restart
 
 ¿Qué sería de nuestro servidor si no le ponemos una portada personalizada? 
 
-![](https://i.imgur.com/qD3reB0.png)
+![](https://i.imgur.com/qD3reB0.png){: .center-block :}
 
 Primero nos deshacemos de la página de bienvenida de NGINX. Podemos borrarla o renombrarla.
 
