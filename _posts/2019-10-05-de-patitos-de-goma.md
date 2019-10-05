@@ -50,8 +50,6 @@ Unos pocos datos sobre la placa de desarrollo Digispark ATTiny85
 > ADC en 4 pines
 > LED de encendido y LED de prueba / estado
 
-
-
 ### Preparando el IDE
 
 En primer lugar debemos ir a **archivo > preferencias** y buscar donde pone *Gestor de URLs adicionales de Tarjetas* para introducir la siguiente URL `http://digistump.com/package_digistump_index.json`
