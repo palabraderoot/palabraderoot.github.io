@@ -21,7 +21,7 @@ Aunque una vez cambiada la contraseña hemos dado un gran paso en la dirección 
 
 Creamos un **nuevo usuario** y lo añadimos al **grupo sudo**:
 
-```
+```bash
 sudo adduser nuevousuario
 sudo adduser nuevousuario sudo
 ```
