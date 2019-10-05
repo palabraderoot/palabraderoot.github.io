@@ -163,7 +163,7 @@ permalink: /:year-:month-:day-:title/
 paginate: 5
 
 # pausar futuros posts
-future: false
+# future: false
 
 kramdown:
   input: GFM
