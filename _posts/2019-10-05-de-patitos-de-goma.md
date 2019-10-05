@@ -99,7 +99,7 @@ void loop() {
 }
 ```
 
- ### Ahora, nuestro primer script
+### Ahora, nuestro primer script
 
 Vamos a hacer un pequeño sketch que en un sistema windows abra un navegador (iexplore), acceda a este blog y lo ponga a pantalla completa.
 
