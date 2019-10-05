@@ -28,7 +28,7 @@ sudo adduser nuevousuario sudo
 
 Accedemos con nuestro nuevo y flamante usuario para eliminar al usuario **pi** y sus pertenencias:
 
-```
+```bash
 sudo deluser --remove-home pi
 ```
 
@@ -38,7 +38,7 @@ Con un solo comando hemos logrado dos cosas. Primero, comprobar que hemos sido a
 
 Otra buena práctica, que no por obvia, hay que dejar de remarcar. **Intenta tener tus sistemas siempre con los últimos parches disponibles**. Seamos francos, no nos va a proteger totalmente de nuevos bugs o problemas de seguridad, pero, sí de todo lo conocido hasta la fecha. No es mal negocio **¿No?**
 
-```
+```bash
 sudo apt update
 sudo apt upgrade
 sudo apt dist-upgrade
@@ -48,7 +48,7 @@ sudo apt dist-upgrade
 
 Ahora toca el turno al cortafuegos, vamos a instalar una herramienta que simplifica la configuración de iptables, se trata de **Uncomplicated Firewall (ufw)**.
 
-```
+```bash
 sudo apt install ufw
 ```
 
@@ -58,7 +58,7 @@ Es posible incluso acotar más incluyendo las fuentes desde las que admitiremos 
 
 Resumiendo:
 
-```
+```bash
 sudo ufw allow 22
 sudo ufw enable
 sudo ufw status
@@ -72,7 +72,7 @@ En vez de depender de una contraseña, podemos hacer que nuestro acceso y autent
 
 Primero necesitaremos, obvio, un par de claves.
 
-```
+```bash
 ls ~/.ssh
 ```
 
@@ -80,13 +80,13 @@ Si al listar el directorio oculto `.ssh` encontramos algo similar a `id_rsa id_r
 
 Vale, generemos unas claves, **atención** hay que generarlas **en el cliente** no en la raspberry.
 
-```
+```bash
 ssh-keygen -b 4096 -t rsa
 ```
 
 Una vez generadas solo nos queda pasar a la raspi la clave pública
 
-```
+```bash
 ssh-copy-id -i <nombre-de-usuario>@<ip-de-la-raspi>
 ```
 
@@ -96,13 +96,13 @@ Si todo ha ido bien, nos pedirá la contraseña del usuario y una vez acabado el
 
 Para terminar, por ahora, vamos a hacer un par, o tres configuraciones extra a nuestro sshd. Para ello, editemos (con nuestro editor favorito por supuesto) el fichero de configuración.
 
-```
+```bash
 sudo nano /etc/ssh/sshd_config
 ```
 
 Buscamos las siguientes líneas y las dejamos así.
 
-```
+```bash
 ChallengeResponseAuthentication no
 PasswordAuthentication no
 UsePAM no
