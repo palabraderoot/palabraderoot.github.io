@@ -17,7 +17,7 @@ Voy a tratar de resumirlo:
 
 ### ¿Qué es Rubber Ducky?
 
-El concepto es simple, un *USB Rubber Ducky* es una herramienta que emula un teclado (*dispositivo HID*) disfrazado de pendrive normal y corriente. Una vez pinchado en el dispositivo objetivo, ejecuta las instrucciones (*payload*) que hayamos preparado para la ocasión.
+El concepto es simple, un USB Rubber Ducky es una herramienta que emula un teclado (dispositivo HID) disfrazado de pendrive normal y corriente. Una vez pinchado en el dispositivo objetivo, ejecuta las instrucciones (*payload*) que hayamos preparado para la ocasión.
 
 >  Nota para administradores y empresas, **la seguridad física también existe**.
 
