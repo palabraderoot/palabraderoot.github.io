@@ -128,4 +128,6 @@ void loop() {
 
 En este ejemplo hemos hecho algo bastante inocuo y que no pasa de ser una pequeña muestra de lo que se podría conseguir realmente con intención y *mala baba*. Solo hace falta darse una vuelta por [algunos repositorios](https://github.com/search?q=rubber+ducky+digispark+scripts) para comprobarlo.
 
+------
+
 Si te ha gustado el artículo, puedes [invitarme a un café](https://www.paypal.me/TheRealomiK/1.2) vía Paypal [![PayPal Logo](https://i.imgur.com/Tpa3ejG.png)](https://www.paypal.me/TheRealomiK/1.2)

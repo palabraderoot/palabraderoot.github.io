@@ -116,4 +116,6 @@ A partir de aquí se podría seguir configurando y afinando la seguridad mucho m
 
 Creo que para nuestras pruebas y *cacharreos* hemos conseguido una configuración inicial bastante interesante. El siguiente paso será instalar los servicios que queramos colocar en Tor. En nuestro caso, un sencillo servidor web.
 
+------
+
 Si te ha gustado el artículo, puedes [invitarme a un café](https://www.paypal.me/TheRealomiK/1.2) vía Paypal [![PayPal Logo](https://i.imgur.com/Tpa3ejG.png)](https://www.paypal.me/TheRealomiK/1.2)
