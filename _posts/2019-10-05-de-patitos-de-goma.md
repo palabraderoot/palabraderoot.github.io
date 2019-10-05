@@ -5,9 +5,9 @@ subtitle: Estúpidos y sensuales puertos USB...
 tags: [diy,ethical hacking,open hardware,pentesting]
 ---
 
-![patito de goma sobredimensionado](https://i.imgur.com/Cfak1lC.jpg){: .center-block :}
-
 Hoy me apetece hablar sobre **Rubber Ducky**, un dispositivo muy majo para tener en nuestro *arsenal de [equipo rojo](https://www.viewnext.com/que-es-un-red-team/)*.
+
+![patito de goma sobredimensionado](https://i.imgur.com/Cfak1lC.jpg){: .center-block :}
 
 Bueno, en realidad no voy a hablar de la estupenda y bien terminada herramienta de pentesting que la empresa Hak5 creó, sino de lo que ocurrió después...
 
