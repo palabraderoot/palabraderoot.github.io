@@ -115,3 +115,5 @@ A partir de ahora, o mejor dicho, a partir del siguiente reinicio ya sea complet
 A partir de aquí se podría seguir configurando y afinando la seguridad mucho más. Configurar desde un detector de rootkits (*rkhunter*) a un analizador de logs (*logwatch*) que nos mande reportes a nuestro correo, o incluso a través de un bot de Telegram (*tengo que hablar del tema en un futuro*).
 
 Creo que para nuestras pruebas y *cacharreos* hemos conseguido una configuración inicial bastante interesante. El siguiente paso será instalar los servicios que queramos colocar en Tor. En nuestro caso, un sencillo servidor web.
+
+Si te ha gustado el artículo, puedes [invitarme a un café](https://www.paypal.me/TheRealomiK/1.2) vía Paypal [![PayPal Logo](https://i.imgur.com/Tpa3ejG.png)](https://www.paypal.me/TheRealomiK/1.2)
