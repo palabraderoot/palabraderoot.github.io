@@ -5,6 +5,7 @@ subtitle: La buena, pero pasada de moda, sección about me
 ---
 
 **Palabra de Root** es un blog que trata sobre tecnología, software libre, seguridad informática y gatetes gestionado por **Jesús Muñoz**, también conocido como "**omiK**".
+
 Soy un nerd ligado al mundo de la tecnología (*durante más años de los que me gusta reconocer*), dedicado a la ciberseguridad, el pentesting y la producción audiovisual. En definitiva, un nerd que hace cosas.
 
 Para más información siempre puedes visitar:
