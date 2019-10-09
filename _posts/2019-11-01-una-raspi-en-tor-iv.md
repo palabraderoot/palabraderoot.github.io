@@ -76,6 +76,8 @@ Para una información más detallada:
 
 [https://trac.torproject.org/projects/tor/wiki/doc/NextGenOnions](https://trac.torproject.org/projects/tor/wiki/doc/NextGenOnions)
 
+Y si aun así, quieres una dirección de las antiguas, siempre puedes añadir HiddenServiceVersion 2 a las dos líneas anteriores en `torrc`.
+
 ------
 
 Si te ha gustado el artículo, puedes [invitarme a un café](https://www.paypal.me/TheRealomiK/1.2) vía Paypal [![PayPal Logo](https://i.imgur.com/Tpa3ejG.png)](https://www.paypal.me/TheRealomiK/1.2)
