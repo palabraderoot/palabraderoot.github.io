@@ -66,6 +66,12 @@ Para probar que todo ha ido bien, podemos abrir Tor Browser y visitar la direcci
 
 Una de las ventajas añadidas de usar Tor es que si estamos detrás de un router NAT no hay necesidad de abrir puertos. Una vez configurado y activado el **servicio oculto** funcionará sin ninguna otra configuración de puertos extra.
 
+***P.S.*** Es probable que la dirección generada sea del tipo `4acth47i6kxnvkewtm6q7ib2s3ufpo5sqbsnzjpbi7utijcltosqemad.onion`. No te asustes no es más que la nueva versión (*"v3"*) de los servicios ocultos Tor. Pasa de las direcciones de 16 caracteres a 56. Trae entre otras mejoras una mejor criptografía, remplazando el protocolo usado anteriormente *SHA1/DH/RSA1024*, por *SHA3/ed25519/curve25519*.
+
+Para una información más detallada:
+
+[https://trac.torproject.org/projects/tor/wiki/doc/NextGenOnions](https://trac.torproject.org/projects/tor/wiki/doc/NextGenOnions)
+
 ------
 
 Si te ha gustado el artículo, puedes [invitarme a un café](https://www.paypal.me/TheRealomiK/1.2) vía Paypal [![PayPal Logo](https://i.imgur.com/Tpa3ejG.png)](https://www.paypal.me/TheRealomiK/1.2)
