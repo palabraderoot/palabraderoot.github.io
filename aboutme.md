@@ -4,8 +4,7 @@ title: About me
 subtitle: La buena, pero pasada de moda, sección about me
 ---
 
-**Palabra de Root** es un blog que trata sobre tecnología, sofware libre, seguridad informática y gatos gestionado por **Jesús Muñoz**, también conocido como "**omiK**".
-
+**Palabra de Root** es un blog que trata sobre tecnología, software libre, seguridad informática y gatetes gestionado por **Jesús Muñoz**, también conocido como "**omiK**".
 Soy un nerd ligado al mundo de la tecnología (*durante más años de los que me gusta reconocer*), dedicado a la ciberseguridad, el pentesting y la producción audiovisual. En definitiva, un nerd que hace cosas.
 
 Para más información siempre puedes visitar:
@@ -19,3 +18,8 @@ Para más información siempre puedes visitar:
 Pero por si no te apetece ver certificados y profiles en linkedin, aquí te dejo un gif de un gatete:
 
 ![](https://media.giphy.com/media/4iqMzLtBO9KSY/giphy.gif){: .center-block :} 
+
+
+------
+
+Si te gusta lo que ves por aquí, puedes [invitarme a un café](https://www.paypal.me/TheRealomiK/1.2) vía Paypal [![PayPal Logo](https://i.imgur.com/Tpa3ejG.png)](https://www.paypal.me/TheRealomiK/1.2)
