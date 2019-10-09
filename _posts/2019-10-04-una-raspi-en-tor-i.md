@@ -56,7 +56,9 @@ Todo va a depender de cómo nos acerquemos a la tecnología y con qué fin. Sirv
 
 ## ¿Qué son los dominios .onion?
 
-Reciben el nombre de **hidden services** o servicios ocultos. Un dominio .onion es la dirección de un servicio que **solo es accesible a través de la red TOR**, ya sea una web (*usando TOR Browser*), un servidor IRC (con torsocks, torify...), o cualquier otro servicio.
+Reciben el nombre de **hidden services** o servicios ocultos. Un dominio .onion es la dirección de un servicio que **solo es accesible a través de la red Tor**. No tiene por qué ser una página web, puede ser *casi* cualquier otro tipo de sistema *(irc, ssh, etc)*.
+
+Hay que destacar que al ser un servicio que no sale de la red Tor toda la comunicación es anónima.
 
 > Las direcciones con el pseudo-dominio .onion son opacas, no mnemotécnicas y fruto de una combinación de 16 caracteres alfanuméricos generados manualmente, ya que así está basándose en una clave pública cuando Tor es configurado. Esa combinación de 16 caracteres puede ser creada con cualquier letra del alfabeto y con dígitos decimales que empiecen por 2 y acaben en 7 representando así un número de 80-bit en base32
 >
