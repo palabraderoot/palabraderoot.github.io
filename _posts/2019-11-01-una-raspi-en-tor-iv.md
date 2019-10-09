@@ -51,7 +51,7 @@ Si todo ha salido bien ahora tenemos nuestro servidor web en Tor con su propia d
 
 Vale, ¿*Dónde leches veo la dirección para pasársela a todos mis amigos y un par de conocidos*?
 
-Cada servicio que añadimos en el fichero `/etc/tor/torrc` genera una carpeta con el nombre del servicio que hayamos elegido en `/var/lib/tor/nombre_del_servicio`. Dentro encontraremos dos archivos, `hostname` y `private_key`. 
+Cada servicio que añadimos en el fichero `/etc/tor/torrc` genera una carpeta con el nombre del servicio que hayamos elegido en `/var/lib/tor/nombre_del_servicio`. Dentro encontraremos dos archivos, `hostname` y `private_key`. Conviene guardar a buen recaudo ambos ficheros para futuras migraciones si no queremos perder la dirección asignada.
 
 En nuestro caso
 
@@ -66,20 +66,6 @@ Para probar que todo ha ido bien, podemos abrir Tor Browser y visitar la direcci
 
 Una de las ventajas añadidas de usar Tor es que si estamos detrás de un router NAT no hay necesidad de abrir puertos. Una vez configurado y activado el **servicio oculto** funcionará sin ninguna otra configuración de puertos extra.
 
-
-
-+ [Aventuras de una Raspberry Pi en Tor (I)](https://palabraderoot.github.io/2019-10-04-una-raspi-en-tor-i/)
-
-+ [Aventuras de una Raspberry Pi en Tor (II)](https://palabraderoot.github.io/2019-10-18-una-raspi-en-tor-ii/)
-
-+ [Aventuras de una Raspberry Pi en Tor (III)](https://palabraderoot.github.io/2019-10-25-una-raspi-en-tor-iii/)
-
-+ [Aventuras de una Raspberry Pi en Tor (IV)](https://palabraderoot.github.io/2019-10-25-una-raspi-en-tor-iii/) 
-
-  
-
 ------
 
 Si te ha gustado el artículo, puedes [invitarme a un café](https://www.paypal.me/TheRealomiK/1.2) vía Paypal [![PayPal Logo](https://i.imgur.com/Tpa3ejG.png)](https://www.paypal.me/TheRealomiK/1.2)
-
-
