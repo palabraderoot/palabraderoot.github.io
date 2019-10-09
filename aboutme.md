@@ -22,4 +22,6 @@ Pero por si no te apetece ver certificados y profiles en linkedin, aquí te dejo
 
 ------
 
-Si te gusta lo que ves por aquí, puedes [invitarme a un café](https://www.paypal.me/TheRealomiK/1.2) vía Paypal [![PayPal Logo](https://i.imgur.com/Tpa3ejG.png)](https://www.paypal.me/TheRealomiK/1.2)
+Todo el contenido de **Palabra de Root** está bajo una licencia de [**Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional**](http://creativecommons.org/licenses/by-sa/4.0/).
+
+![Free CUltural Works](https://i.imgur.com/wFDG8pp.png){: .center-block :}
