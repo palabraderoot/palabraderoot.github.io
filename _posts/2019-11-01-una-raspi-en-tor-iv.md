@@ -26,6 +26,7 @@ Como dijimos en el [primer post](https://palabraderoot.github.io/2019-10-04-una-
 > *Reciben el nombre de **hidden services** o servicios ocultos. Un dominio .onion es la dirección de un servicio  que **solo es accesible a través de la red Tor**. No tiene por qué ser una página web, puede ser casi cualquier otro tipo de sistema (irc, ssh, etc).*
 >
 > *Hay que destacar que al ser un servicio que no sale de la red Tor toda la comunicación es anónima.*
+>
 > *...*
 
 Vamos al lío, editamos el archivo `/etc/tor/torrc` y ya sea al final del archivo o por la zona que indica la configuración (busca esta línea en el fichero)
@@ -70,7 +71,7 @@ Una de las ventajas añadidas de usar Tor es que si estamos detrás de un router
 
 No te asustes no es más que la nueva versión (*"v3"*) de los servicios ocultos Tor. Pasa de las direcciones de 16 caracteres a 56.
 
-Trae entre otras cosas una mejor criptografía, remplazando el protocolo usado anteriormente *SHA1/DH/RSA1024*, por *SHA3/ed25519/curve25519*.
+Trae entre otras cosas una mejora en criptografía, remplazando el algoritmo usado anteriormente *SHA1/DH/RSA1024*, por *SHA3/ed25519/curve25519*.
 
 Para una información más detallada:
 
