@@ -69,7 +69,7 @@ Una de las ventajas añadidas de usar Tor es que si estamos detrás de un router
 
 ***P.S.*** Es probable que la dirección generada por Tor sea del tipo `4acth47i6kxnvkewtm6q7ib2s3ufpo5sqbsnzjpbi7utijcltosqemad.onion`. 
 
-No te asustes no es más que la nueva versión (*"v3"*) de los servicios ocultos Tor. Pasa de las direcciones de 16 caracteres a 56.
+*Don't Panic!*, no es más que la nueva versión (*"v3"*) de los servicios ocultos Tor. Pasa de las direcciones de 16 caracteres a 56.
 
 Trae entre otras cosas una mejora en criptografía, remplazando el algoritmo usado anteriormente *SHA1/DH/RSA1024*, por *SHA3/ed25519/curve25519*.
 
