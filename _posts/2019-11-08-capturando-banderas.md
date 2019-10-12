@@ -67,3 +67,8 @@ Un pequeño listado a vuelapluma:
 
 
 ![]( https://i.imgur.com/k5rSTKj.png ){: .center-block :}
+
+
+------
+
+Si te ha gustado el artículo, puedes [invitarme a un café](https://www.paypal.me/TheRealomiK/1.2) vía Paypal [![PayPal Logo](https://i.imgur.com/Tpa3ejG.png)](https://www.paypal.me/TheRealomiK/1.2)
