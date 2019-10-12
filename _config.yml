@@ -160,7 +160,7 @@ timezone: "Europe/Madrid"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 8
 
 # pausar futuros posts
 # future: false
