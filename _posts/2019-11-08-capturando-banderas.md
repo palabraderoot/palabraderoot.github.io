@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aprendiendo Linux por el "*camino salvaje*"
+title: Aprendiendo Linux por el "camino salvaje"
 subtitle: Wargames, los escape rooms de la comunidad hacker
 tags: [wargames, ctf, ciberseguridad]
 ---
