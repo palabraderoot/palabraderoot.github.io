@@ -19,6 +19,7 @@ Bienvenido al mundo de los Wargames.
 >**Joshua/WOPR**: To win the game.
 >
 >
+>
 >*Cita de la película [**Wargames (1983)**](https://en.wikipedia.org/wiki/WarGames)*
 
 Los Juegos de Guerra son una serie de retos para practicar conceptos de ciberseguridad de una forma divertida (*y legal*).
