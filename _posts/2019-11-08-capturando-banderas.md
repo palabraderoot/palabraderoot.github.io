@@ -11,9 +11,13 @@ Seguro que ya hemos leído libros, hecho cursos, visto tutoriales... ¿Qué tal 
 Bienvenido al mundo de los Wargames.
 
 >**David**: What is the primary goal?
+>
 >**Joshua/WOPR**: You should know that, Professor. You programmed me.
+>
 >**David**: Oh, c'mon. What is the primary goal?
+>
 >**Joshua/WOPR**: To win the game.
+>
 >
 >*Cita de la película [**Wargames (1983)**](https://en.wikipedia.org/wiki/WarGames)*
 
