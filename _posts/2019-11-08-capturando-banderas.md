@@ -39,7 +39,9 @@ Wargames hay de muchos tipos e incluyen un montón de técnicas y campos, entre 
 
 En este post nos vamos a centrar en [**OverTheWire**](https://overthewire.org/wargames/), una comunidad que alberga un montón de juegos contra los que probar nuestros conocimientos.
 
-Si es tu primera vez en un Wargame, te recomiendan empezar por [Bandit](http://overthewire.org/wargames/bandit/) su juego más sencillo. Enfocado a   enseñar lo básico que se necesita para jugar el resto de wargames que tienen disponibles, es una gran oportunidad de desempolvar nuestro bash y enredar con sus grep, less find, pipes...
+Si es tu primera vez en un Wargame, te recomiendan empezar por [Bandit](http://overthewire.org/wargames/bandit/) su juego más sencillo. Enfocado a   enseñar lo básico que se necesita para jugar el resto de wargames que tienen disponibles, es una gran oportunidad de desempolvar nuestro bash y enredar con sus grep, less, find, pipes...
+
+![]( https://i.imgur.com/S9qdUnV.png ){: .center-block :}
 
 Está organizado en 34 niveles, empiezas en el nivel 0 y al resolverlo obtienes la información de cómo iniciar el siguiente nivel y así sucesivamente. 
 
