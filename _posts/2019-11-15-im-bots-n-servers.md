@@ -67,7 +67,7 @@ Lo he visto demasiadas veces.
 
  *Hackencio™* tiene un nuevo proyecto ultra-super-chachi para su raspberry →  *Hackencio* configura todo lo configurable, codifica todo lo codificable → *Hackencio* disfruta, maravillado de su creación →  *Hackencio* deja pasar los meses y piensa ¿Si esto funciona, *pa qué* tocarlo?
 
-Repetid conmigo, **siempre hay que mantener al día nuestro software**, como mínimo se deberían realizar todas las actualizaciones de seguridad.
+Repetid conmigo, **siempre hay que mantener al día nuestro software**. Como mínimo se deberían realizar todas las actualizaciones de seguridad.
 
 Lo ideal es hacer este proceso manual y periódico, hay varios problemas bastante serios si seguimos el camino de las actualizaciones automáticas pero, puestos a elegir entre automatizar y no actualizar en absoluto, está claro lo que es mejor. ¿No? Pues vamos al lío.
 
