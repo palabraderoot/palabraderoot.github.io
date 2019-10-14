@@ -101,7 +101,7 @@ En dos líneas Crontab es un fichero de texto donde se indican scripts y cuando 
 
 ![]( https://i.imgur.com/nzHttN7.png ){: .center-block :}
 
-##### Para el script de aviso de reinicio
+#### Para el script de aviso de reinicio
 
 Editaremos el archivo crontab del usuario con el siguiente comando
 
@@ -117,7 +117,7 @@ Y añadiremos al archivo
 
 En esa línea le estamos indicando que tras el reinicio y pasados 30 segundos ejecute el script `reboot2bot.sh`
 
-##### Para el script de las actualizaciones automáticas
+#### Para el script de las actualizaciones automáticas
 
 Modificaremos el archivo crontab del usuario root 
 
@@ -137,8 +137,7 @@ Listo, ahora todos los días a las 2 de la madrugada, se lanzará el script de a
 
 Como dije las funciones de las que podemos dotar a nuestro Bot son incontables, si os apetece ver en qué está enredando la gente, hay unos cuantos (*mas de veintisiete mil*) repositorios en github que ojear.
 
- https://github.com/search?q=telegram+bot 
-
+[https://github.com/search?q=telegram+bot]( https://github.com/search?q=telegram+bot )
 
 
 ------
