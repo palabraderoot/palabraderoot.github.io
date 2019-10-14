@@ -69,7 +69,9 @@ Lo he visto demasiadas veces.
 
 Repetid conmigo, **siempre hay que mantener al día nuestro software**. Como mínimo se deberían realizar todas las actualizaciones de seguridad.
 
-Lo ideal es hacer este proceso manual y periódico, hay varios problemas bastante serios si seguimos el camino de las actualizaciones automáticas pero, puestos a elegir entre automatizar y no actualizar en absoluto, está claro lo que es mejor. ¿No? Pues vamos al lío.
+Lo ideal es hacer este proceso manual y periódico, hay varios problemas bastante serios si seguimos el camino de las actualizaciones automáticas pero, puestos a elegir entre automatizar y no actualizar en absoluto, está claro lo que es mejor. ¿No? 
+
+Pues vamos al lío.
 
 ```bash
 nano ~/mis_scripts/update2bot.sh
@@ -89,6 +91,9 @@ UPGRADE="$(apt-get upgrade -y)"
 MSG="[$HOST_NAME] Daily Update Notification %0A$UPGRADE"
 
 curl -s -X POST $URL -d chat_id=$ID -d text="$MSG"
+```
+```bash
+chmod +x ~/mis_scripts/update2bot.sh
 ```
 
 También podemos probar este script, solo hay que tener en cuenta que para ejecutar las actualizaciones de sistema hacen falta privilegios así que hará falta usar sudo `sudo ~/mis_scripts/reboot2bot.sh`.
