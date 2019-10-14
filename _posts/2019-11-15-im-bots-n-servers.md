@@ -1,7 +1,7 @@
 ---
 layout: post
 title: De sistemas de mensajería, robots y servidores
-subtitle: Obtener el notificaciones de un servidor vía Telegram
+subtitle: Obtener notificaciones de un servidor vía Telegram
 tags: [linux, bash]
 ---
 No creo que haga falta remarcar la importancia que tienen las aplicaciones de mensajería en nuestro día a día ni lo popular que se está volviendo Telegram.
