@@ -23,9 +23,9 @@ Pero empecemos por el principio,
 
 Tan simple como hablar a [BotFather](https://telegram.me/botfather) (*el bot creador de bots, botception?*) enviando el comando `/newbot`.  Esto iniciará una cadena de preguntas por parte BotFather para configurarlo.
 
-Nos preguntará el nombre del bot (por ejemplo, *Palabra de Root*), su nombre de usuario (ej, "PalaBraDeRootBot")  y a continuación nos dará un token de acceso al API, **guarda ese dato a buen recaudo** porque lo vamos a necesitar ya mismo.{: .center-block :}
+Nos preguntará el nombre del bot (por ejemplo, *Palabra de Root*), su nombre de usuario (ej, "PalaBraDeRootBot")  y a continuación nos dará un token de acceso al API, **guarda ese dato a buen recaudo** porque lo vamos a necesitar ya mismo.
 
-![]( https://i.imgur.com/dma4h7w.png )
+![]( https://i.imgur.com/dma4h7w.png ){: .center-block :}
 
 Otro dato que necesitamos es el **ID de nuestra cuenta en Telegram**, lo puedes conseguir enviando `/start` a otro bot, [Userinfobot](https://telegram.me/userinfobot).
 
