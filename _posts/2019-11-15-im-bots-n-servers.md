@@ -102,7 +102,7 @@ También podemos probar este script, solo hay que tener en cuenta que para ejecu
 
 #### Crontab
 
-En dos líneas Crontab es un fichero de texto donde se indican scripts y cuando deben ser ejecutados. Cada usuario tiene su propio fichero para rellenar.
+En pocas palabras *Crontab* es un fichero de texto donde se indican comandos o scripts y cuando deben ser ejecutados. Cada usuario tiene su propio fichero.
 
 ![]( https://i.imgur.com/nzHttN7.png ){: .center-block :}
 
@@ -133,7 +133,7 @@ sudo crontab -e
 Y añadiremos al archivo
 
 ```bash
-0 2 * * *  root  /home/usaurio/mis_scripts/update2bot.sh
+0 2 * * * /home/usaurio/mis_scripts/update2bot.sh
 ```
 
 Listo, ahora todos los días a las 2 de la madrugada, se lanzará el script de actualización automática.
