@@ -102,7 +102,7 @@ También podemos probar este script, solo hay que tener en cuenta que para ejecu
 
 #### Crontab
 
-En pocas palabras *Crontab* es un fichero de texto donde se indican comandos o scripts y cuando deben ser ejecutados. Cada usuario tiene su propio fichero.
+En pocas palabras *Crontab* es un fichero de texto donde se indican comandos o scripts y cuándo deben ser ejecutados. Cada usuario tiene su propio fichero.
 
 ![]( https://i.imgur.com/nzHttN7.png ){: .center-block :}
 
