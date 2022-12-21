@@ -87,7 +87,7 @@ ssh-keygen -b 4096 -t rsa
 Una vez generadas solo nos queda pasar a la raspi la clave pública
 
 ```bash
-ssh-copy-id -i <nombre-de-usuario>@<ip-de-la-raspi>
+ssh-copy-id -i ~/.ssh/id_rsa.pub <nombre-de-usuario>@<ip-de-la-raspi>
 ```
 
 Si todo ha ido bien, nos pedirá la contraseña del usuario y una vez acabado el proceso, podremos acceder a nuestra rasperry sin necesidad de introducir la contraseña.
